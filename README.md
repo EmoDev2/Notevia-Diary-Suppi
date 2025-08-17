@@ -89,6 +89,11 @@ Entries are saved as encrypted `.saka` (our own format) files in a local folder.
 
 Notevia Diary SexrPro was built with one goal: **give users a private, secure space to write**. No cloud, no tracking, no distractions. Just you and your thoughts, protected by encryption and organized with tabs.
 
+- No File Hacking
+- Hidded file as a system component
+- encrypted and Bytecoded to bianry data with Base64
+- More security layers  {INPUT -> (Base64 --> AES (Advanced Encryption Standard) --> Cesár Encryt --> Bytecode --> SecuredDiaryFile.saka) <- OUTPUT}
+
 ---
 
 ## 📢 Roadmap
