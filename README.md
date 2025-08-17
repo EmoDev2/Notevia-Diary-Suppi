@@ -92,7 +92,8 @@ Notevia Diary SexrPro was built with one goal: **give users a private, secure sp
 - No File Hacking
 - Hidded file as a system component
 - encrypted and Bytecoded to bianry data with Base64
-- More security layers  {INPUT -> (Base64 --> AES (Advanced Encryption Standard) --> Cesár Encryt --> Bytecode --> SecuredDiaryFile.saka) <- OUTPUT}
+## Security Layers ↓
+ More security layers  {INPUT -> (Base64 --> AES (Advanced Encryption Standard) --> Cesár Encryt --> Bytecode --> SecuredDiaryFile.saka) <- OUTPUT}
 
 ---
 
