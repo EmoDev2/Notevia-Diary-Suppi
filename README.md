@@ -62,7 +62,7 @@ Even if someone accesses your device, they cannot read your entries without your
 
 - Java JDK 21 or higher  
 - Runs on Windows, Linux, and macOS  
-- No installation required — just compile and run
+- No installation required  
 
 ---
 
@@ -71,7 +71,8 @@ Even if someone accesses your device, they cannot read your entries without your
 Clone the repository and compile:
 
 ```bash
-git clone https://github.com/EmoDev2/Notevia-Diary-SexrPro.git
+git clone https://github.com/EmoDev2/Notevia-Diary-Suppi.git
+cd "Notevia-Diary-Suppi"
 java -jar "Diario Notevia.jar"
 ```
 
